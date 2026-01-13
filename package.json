@@ -1,0 +1,26 @@
+{
+  "name": "dev-logger-pro",
+  "version": "1.0.0",
+  "description": "A professional, environment-agnostic logger. Born from Wix Velo, built for everyone.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "debug",
+    "wix",
+    "velo",
+    "logging",
+    "developer-tools",
+    "console",
+    "utility"
+  ],
+  "author": "Mosaddik Billah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dev-logger-pro"
+  }
+}
